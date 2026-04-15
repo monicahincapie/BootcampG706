@@ -15,7 +15,7 @@ git commit -m "first commit"  Para sellar la caja
  python --version
  crear un entorno virtual en python
 `python -m venv env312` 
- activarlo ``env312\scripts\active``
+ activarlo ``env312\scripts\activate``
  como salio error colocar `Set-ExecutionPolicy-ExecutionPolicy Unrestricted-Scope CurrentUser` esto se hace en powershell para quitar restrinccion y despues se vuelve a ejecutar Set-ExecutionPolicy Unrestricted 
  activarlo tambien puede ser para este equipo ``env312/scripts/activate``
  para ver la lista colocar ``pip list`` 
@@ -26,3 +26,4 @@ git commit -m "first commit"  Para sellar la caja
  pandas -> manejo de datos `pip install pandas`
  numpy-> calculo matematico `pip install numpy`
  matplotlib ->graficos `pip install matplotlib`
+ 
