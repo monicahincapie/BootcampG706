@@ -26,4 +26,5 @@ git commit -m "first commit"  Para sellar la caja
  pandas -> manejo de datos `pip install pandas`
  numpy-> calculo matematico `pip install numpy`
  matplotlib ->graficos `pip install matplotlib`
+ ejemplo
  
