@@ -27,4 +27,9 @@ git commit -m "first commit"  Para sellar la caja
  numpy-> calculo matematico `pip install numpy`
  matplotlib ->graficos `pip install matplotlib`
  ejemplo
- 
+
+Este comando se crea para conservar las librerias y la version que funciona y la compatibilidad, creando un archivo que se llama requeriments.txt
+``pip freeze > requirements.txt``
+
+instalar
+``pip instalall > -r requirements.txt`` 
